@@ -1,0 +1,1 @@
+cmd_/home/jungwung/DesignLab/2_LightControl/d_HelloDev/HelloDev.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/jungwung/DesignLab/linux/scripts/module-common.lds --build-id  -o /home/jungwung/DesignLab/2_LightControl/d_HelloDev/HelloDev.ko /home/jungwung/DesignLab/2_LightControl/d_HelloDev/HelloDev.o /home/jungwung/DesignLab/2_LightControl/d_HelloDev/HelloDev.mod.o

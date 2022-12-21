@@ -1,0 +1,32 @@
+#!/bin/bash
+### Shell script cde_bd_k3813-bone79
+### Setup cross-compile environment for Bone-Debian with Kernel 3.8.13-bone79
+### Usage: source sh/cde_bd_k3813-bone79
+
+## Line starting with '#' means comment line.
+
+## Set MACHINE
+MACHINE=beaglebone
+
+## Set SYSROOTSDIR & STAGEDIR
+SYSROOTSDIR=/usr/bin
+STAGEDIR=${SYSROOTSDIR}
+
+## Set CROSSBINDIR (where cross compiler exists)
+CROSSBINDIR=/usr/bin
+
+## Set KERNELDIR (where the Linux kernel source is located)
+## NOTE: This path to KernelDir should be exact.
+export KERNELDIR=/home/jungwung/DesignLab/linux
+
+## Set PATH
+PATH=${CROSSBINDIR}:${PATH}
+
+unset CFLAGS CPPFLAGS CXXFLAGS LDFLAGS MACHINE
+
+export ARCH="arm"
+export CROSS_COMPILE="arm-linux-gnueabihf-"
+export CC="arm-linux-gnueabihf-gcc"
+export LD="arm-linux-gnueabihf-ld"
+export STRIP="arm-linux-gnueabihf-strip"
+echo "Set cross-development environment for Beaglebone Debian (3.8.13-bone79)."

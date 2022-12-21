@@ -1,0 +1,1 @@
+cmd_/home/jungwung/DesignLab/1_CrossDevEnv/b_ModuleBuild/hellomod.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/jungwung/Downloads/linux/scripts/module-common.lds --build-id  -o /home/jungwung/DesignLab/1_CrossDevEnv/b_ModuleBuild/hellomod.ko /home/jungwung/DesignLab/1_CrossDevEnv/b_ModuleBuild/hellomod.o /home/jungwung/DesignLab/1_CrossDevEnv/b_ModuleBuild/hellomod.mod.o
