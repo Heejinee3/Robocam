@@ -1,9 +1,6 @@
----
-index: 7 # labs number
-num: 3 # lab number
-permalink: /lab/Robocam/WiFi # link
-category: lab # project or lab
----
+### **WiFi** 
+
+<br>
 
 #### **Purpose**
 
@@ -51,14 +48,6 @@ The purpose of this lab is to setup WiFi device driver with security, and contro
    ```
    Implement a remote keyboard commander on PC to control battery-powered three-wheeled mobile robot using WiFi and datagram socket.
    ```
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Robocam/tree/master/WiFi)
 
 <br>
 
