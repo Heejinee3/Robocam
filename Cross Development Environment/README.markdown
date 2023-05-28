@@ -1,6 +1,4 @@
-### **Cross Development Environment**
-
----
+<center> **Cross Development Environment** </center>
 
 <br>
 
