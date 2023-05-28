@@ -1,9 +1,6 @@
----
-index: 7 # labs number
-num: 2 # lab number
-permalink: /lab/Robocam/Mobile-Robot-Control # link
-category: lab # project or lab
----
+### **Mobile Robot Control** 
+
+<br>
 
 #### **Purpose**
 
@@ -52,14 +49,6 @@ The purpose of this lab is to design and implement hardware and software for a t
    ```
    Implement local keyboard control of TMR on Bone to actuate servos and lights.
    ```
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Robocam/tree/master/Mobile%20Robot%20Control)
 
 <br>
 
