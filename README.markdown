@@ -1,5 +1,5 @@
-### **Robocam** 
-(Sep 2021 ~ Dec 2021)
+### **Robocam** (Sep 2021 ~ Dec 2021)
+
 <br>
 
 #### **Introduction** 
