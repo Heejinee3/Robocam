@@ -10,12 +10,8 @@ The objective of these labs is to design a RoboCam (Robotic Camera) as a prototy
 
 <br>
 
-
-
 #### **Development Environment** 
 
 ---
 
 Ubuntu, Beaglebone Debian, NFS, Cross Development Environment, C, C++
-
-<br>
