@@ -1,9 +1,6 @@
----
-index: 7 # labs number
-num: 4 # lab number
-permalink: /lab/Robocam/WebCam-and-System-Integration # link
-category: lab # project or lab
----
+### **WebCam and System Integration** 
+
+<br>
 
 #### **Purpose**
 
@@ -64,14 +61,6 @@ The purpose of this lab is to design and implement a remote video viewer using o
    Storage ← (Record command)
    Finger  → Commander        → Command → Controller → Servos & Lights
    ```
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Robocam/tree/master/WebCam%20and%20System%20Integration)
 
 <br>
 
