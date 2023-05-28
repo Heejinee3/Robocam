@@ -1,9 +1,4 @@
----
-index: 7 # labs number
-num: 0 # lab number
-permalink: /lab/Robocam/Cross-Development-Environment # link
-category: lab # project or lab
----
+## Cross Development Environment
 
 #### **Purpose**
 
@@ -61,14 +56,6 @@ Suitable Linux software cross development system based on a PC will be construct
     Of course, quotation marks do not appear on terminal.
     Test on PC to debug, and then run on Beaglebone.
     ```
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Robocam/tree/master/Cross%20Development%20Environment)
 
 <br>
 
