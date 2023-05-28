@@ -1,9 +1,6 @@
----
-index: 7 # labs number
-num: 1 # lab number
-permalink: /lab/Robocam/Light-Control # link
-category: lab # project or lab
----
+### **Light Control** 
+
+<br>
 
 #### **Purpose**
 
@@ -53,14 +50,6 @@ The purpose of this lab is to control two lights for illumination: hardwired LED
    ```
    Control two hard-wired LED lights using application program and device driver module for lights control.
    ```
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Robocam/tree/master/Light%20Control)
 
 <br>
 
