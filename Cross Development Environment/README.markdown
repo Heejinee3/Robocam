@@ -65,7 +65,6 @@ Suitable Linux software cross development system based on a PC will be construct
 
 ---
 
-[Beaglebone Debian]
-[Beaglebone Debian] : https://velog.io/@chunjakim/Beaglebone-Debian
+[Beaglebone Debian](https://velog.io/@chunjakim/Beaglebone-Debian)
 
 [NFS](https://velog.io/@chunjakim/NFSNetwork-File-System)
